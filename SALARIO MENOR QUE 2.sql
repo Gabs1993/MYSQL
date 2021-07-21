@@ -1,0 +1,1 @@
+SELECT * FROM db_empresa.tb_funcionario where salario < 2
